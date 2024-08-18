@@ -12,12 +12,15 @@ LeonardoAI - Criação de Imagens
 Canvas - Diagramação
 
 ## 🧐 Processo de Criação
+
 1° Criei alguns scripts necessarios para serem utilizados como comandos no ChatGPT.
+
 2° Utilizai a ferramenta de criação de imagens LeonardoAI para criar as imagens presentes no E-book.
+
 3° Utilizei a ferramenta Canvas para criar a diagramação e todo design do E-book.
 
 ## 🚀 Resultado
 O resultado foi um e-book incrível! Vai ficar mais incrível quando baixarem e usarem.
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão 
 A ideia surgiu quando eu estava com dificuldade em achar materiais e questões para facilitar meus estudos. Como tenho conhecimento em ferramentas de IA procurei desenvolver esse e-book para auxiliar não só a mim, mas também outras pessoas. 
