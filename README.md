@@ -4,7 +4,7 @@ Desafio de Projeto NatOrNot - E-book Estude Para Concursos Com ChatGPT
 ## 📒 Descrição
 
 É um e-book voltado para pessoas que buscam não só estudar para concursos com o auxilio do ChatGPT, mas também pode ser usado em qualquer prova, exemplo: ENEM, embora tenha sido desenvolvido para concursos.
-É um guia completo para quem procura exito em seus estudos, oferecendo: comandos importantes do ChatGPT, dicas de como utilizar o ChatGPT nos estudos, questões diretas e hipotéticas com gabaritos comentados etc...
+É um guia completo para quem procura êxito em seus estudos, oferecendo: comandos importantes do ChatGPT, dicas de como utilizar o ChatGPT nos estudos, questões diretas e hipotéticas com gabaritos comentados etc...
 
 ## 🤖 Tecnologias Utilizadas
 ChatGPT - OpenAI
